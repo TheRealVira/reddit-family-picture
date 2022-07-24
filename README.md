@@ -33,5 +33,5 @@ Generating family picture...
 Saving family_picture.png ...
 Done!
 ```
-# Resuslt
+# Result
 ![result image](./content/family_picture.png)
