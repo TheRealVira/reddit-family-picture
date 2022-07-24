@@ -5,7 +5,7 @@ from random import randrange
 
 # Defining argument parser
 parser = argparse.ArgumentParser(
-    description="Generate a family picture of a subreddit moderation team"
+    description="Generate a family picture of a subreddit moderation team."
 )
 parser.add_argument("--subreddit", help="subreddit selection", default="redditdev")
 parser.add_argument("--sub_dir", help="main subreddit directory", default="./sub/")
